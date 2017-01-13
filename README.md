@@ -1,5 +1,2 @@
 # My
-Hsh
-Another Hsh
-One more Hsh
-The last Hsh
+Тут всякие Енотовы файлики
