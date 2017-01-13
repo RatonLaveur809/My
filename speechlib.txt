@@ -1,0 +1,7 @@
+Нужно подключить к проекту COM-объект Microsoft Speech Object Library, см. меню Проект -> Добавить ссылку -> вкладка Com. 
+И импортировать библиотеку в код: 
+using SpeechLib;
+
+Для синтеза:
+вкладка .NET, System.Speech
+using System.Speech.Synthesis;
